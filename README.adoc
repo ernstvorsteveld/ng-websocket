@@ -10,3 +10,8 @@ The username of the user object is displayed on the UI.
 
 The library websocket.io is used, so that it is in line with the library used by the Websocket Server.
 The server is build using NestJS and is available at https://github.com/ernstvorsteveld/nestjs-websocket
+
+
+== To do
+
+* Make the websocket server URL and PORT configurable
