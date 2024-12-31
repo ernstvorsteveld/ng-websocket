@@ -1,0 +1,12 @@
+= NG Websocket
+:toc:
+
+== Introduction
+
+NG Websocket is a websocket client. It accepts user objects from a websocket server.
+The username of the user object is displayed on the UI.
+
+== Details
+
+The library websocket.io is used, so that it is in line with the library used by the Websocket Server.
+The server is build using NestJS and is available at https://github.com/ernstvorsteveld/nestjs-websocket
