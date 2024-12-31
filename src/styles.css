@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.figtree-400-normal {
+  font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
