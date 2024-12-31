@@ -20,7 +20,7 @@ export class WebSocketService {
     this.socket = io(WS_ENDPOINT);
 
     this.socket.on("connect", () => {
-      console.log("Connected to server!!");
+      console.log("Connected to server");
     });
 
     this.socket.on("disconnect", () => {
